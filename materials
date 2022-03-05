@@ -4,25 +4,29 @@
 2. Καλώδια
 3. 2 Αισθητήρες απόστασης
 4. Κινητήρας
+5. Πλακέτα Δοκιμών Mini
+6. LED 3mm Red/Yellow/Green 2.2V, 20mA
 
-5. Φωτοβολταϊκό πάνελ 2W, 9V, 250mA
-6. Μπαταρία 6V, 2400mAh
-7. Ρυθμιστής φόρτισης
+7. Φωτοβολταϊκό πάνελ 2W, 9V, 250mA
+8. Μπαταρία 6V, 2400mAh
+9. Ρυθμιστής φόρτισης
 
-8. Wi-fi module
+10. Wi-fi module
 
 Ενδεικτικοί σύνδεσμοι για υπολογισμό εκτιμώμενου κόστους:
 
-1. Arduino Nano: https://grobotronics.com/arduino-nano-compatible-ch340-with-headers.html : 6€
+1. Arduino Nano: https://grobotronics.com/arduino-nano-compatible-ch340-with-headers.html : 9.90€
 2. Αρσενικά σε αρσενικά καλώδια: https://grobotronics.com/jumper-wires-15cm-male-to-male-pack-of-10.html : 1.80€
    Θηλυκά σε θηλυκά καλώδια: https://grobotronics.com/jumper-wires-15cm-female-to-female-pack-of-10.html : 1.80€
 3. 2 Αισθητήρες απόστασης: https://grobotronics.com/ultrasonic-sensor-ranging-detector-2-450cm-hy-srf05.html : 3.60€ * 2 = 7.20€
-4. Κινητήρας: https://grobotronics.com/servo-micro-2.2kg.cm-plastic-gears-waveshare-sg90.html : 3.60€
+4. Κινητήρας: https://grobotronics.com/servo-micro-1.5kg.cm-plastic-gears-feetech-fs90.html : 3.90€
+5. Πλακέτα Δοκιμών Mini: https://grobotronics.com/breadboard-mini-blue.html : 1.60€
+6. LED 3mm Red/Yellow/Green: https://grobotronics.com/led-3mm-rgb-in-housing-20ma.html : 0.70€
 
-5. Φωτοβολταϊκό πάνελ: https://www.shop-e.gr/%CE%B1%CE%BD%CE%B1%CE%BD%CE%B5%CF%89%CF%83%CE%B9%CE%BC%CE%B5%CF%83-%CF%80%CE%B7%CE%B3%CE%B5%CF%83-%CE%B5%CE%BD%CE%B5%CF%81%CE%B3%CE%B5%CE%B9%CE%B1%CF%82/%CF%86%CF%89%CF%84%CE%BF%CE%B2%CE%BF%CE%BB%CF%84%CE%B1%CF%8A%CE%BA%CE%B1/%CF%80%CE%BF%CE%BB%CF%85-%CE%BC%CE%B9%CE%BA%CF%81%CE%B1-%CF%86%CF%89%CF%84%CE%BF%CE%B2%CE%BF%CE%BB%CF%84%CE%B1%CF%8A%CE%BA%CE%B1-%CF%80%CE%B1%CE%BD%CE%B5%CE%BB/smm-9v-2w-%CE%BC%CE%B9%CE%BA%CF%81%CE%BF-%CF%86%CF%89%CF%84%CE%BF%CE%B2%CE%BF%CE%BB%CF%84%CE%B1%CE%B9%CE%BA%CE%BF-%CF%80%CE%B1%CE%BD%CE%B5%CE%BB-2w-9v-mini-solar-panel-06-01-0102-detail : 6.29€
-6. Μπαταρία: https://www.ebay.de/itm/353329518781?_trkparms=amclksrc%3DITM%26aid%3D1110006%26algo%3DHOMESPLICE.SIM%26ao%3D1%26asc%3D237209%26meid%3D9932ecb62c01458abe47cfb11d81a068%26pid%3D101195%26rk%3D2%26rkt%3D12%26sd%3D223958238467%26itm%3D353329518781%26pmt%3D1%26noa%3D0%26pg%3D2047675%26algv%3DSimplAMLv9PairwiseWebMskuAspectsV202110NoVariantSeedWithTargetEncode&_trksid=p2047675.c101195.m1851&amdata=cksum%3A3533295187819932ecb62c01458abe47cfb11d81a068%7Cenc%3AAQAGAAACMEnhNYShfYNENg22e5Ar2gHCsggcbHQOsFH6k%252BPml9ZycFDgyi9VaDo0a9TwZaXkDGKxS%252FfzKzSZ06dQPiCAmexAf5X7rEMUn652tXtZRj8L16VFaaQxY%252BBaHybuBN8fQWV20UbYjzw3JZeO%252Bi0YUXURdKjIHMS0aRqSSX9djw%252BqGTPC179EWH4nBWSo6qg49cmvEkvtahU43pLOpmwdMkwjmxcCOVzz1OhjpE%252BxIC%252FoKelcUY0ZGZsJy1dslUr6j3ImlEhAce9dLoFFMudVfUTZX5n4xlKLlPad%252B43wl3iCjNklNRokS67M9liFxs3Y18Ai%252B9NRTQWVEJQGxLHbJVLu0d4YqqWFkKNCtMhAiInTA%252FQ0aeb17kqMnTmbR4sfN9rgXg%252BCFMBXei%252FAxMD1jNrFLyEDBbrNBiKOaGylRFVSLQAKimfea5tUDhE5ug9BG%252BPPMgByvumJN4Z%252Bqh02cutAPChKdMMKPtJjH43Hk0vXSUo5kwnK5gdWi%252BqLPw%252BNcORpleAb99m7HLgCwvEdnC0SSz2o9v5%252BgmjM0QsFQ7rsmAfp3WRTRuacOeZYqSmL9Ix9Lc%252FWH0S6VRIoL4ACeH4%252BdiaLp9CDRlQXK6ASGY0vaqfHoFgeF4cdy4SAVOfx6qfBP0NkO3McnhbLZM7xFlqcc8xAttfXcM3mWECHuvp4d2GIS9oYOqPwZd%252BsRyuw0qlQpc34640MPkFzXh0Qt1dIcBs0AGjWroMArJWOBg3X%7Campid%3APL_CLK%7Cclp%3A2047675 : 11.45€
-7. Ρυθμιστής φόρτισης: https://www.ebay.de/itm/334332178067?hash=item4dd7c02e93:g:hX4AAOSwWeRiDRzA : 5.49€
+7. Φωτοβολταϊκό πάνελ: https://www.shop-e.gr/%CE%B1%CE%BD%CE%B1%CE%BD%CE%B5%CF%89%CF%83%CE%B9%CE%BC%CE%B5%CF%83-%CF%80%CE%B7%CE%B3%CE%B5%CF%83-%CE%B5%CE%BD%CE%B5%CF%81%CE%B3%CE%B5%CE%B9%CE%B1%CF%82/%CF%86%CF%89%CF%84%CE%BF%CE%B2%CE%BF%CE%BB%CF%84%CE%B1%CF%8A%CE%BA%CE%B1/%CF%80%CE%BF%CE%BB%CF%85-%CE%BC%CE%B9%CE%BA%CF%81%CE%B1-%CF%86%CF%89%CF%84%CE%BF%CE%B2%CE%BF%CE%BB%CF%84%CE%B1%CF%8A%CE%BA%CE%B1-%CF%80%CE%B1%CE%BD%CE%B5%CE%BB/smm-9v-2w-%CE%BC%CE%B9%CE%BA%CF%81%CE%BF-%CF%86%CF%89%CF%84%CE%BF%CE%B2%CE%BF%CE%BB%CF%84%CE%B1%CE%B9%CE%BA%CE%BF-%CF%80%CE%B1%CE%BD%CE%B5%CE%BB-2w-9v-mini-solar-panel-06-01-0102-detail : 6.29€
+8. Μπαταρία: https://www.ebay.de/itm/353329518781?_trkparms=amclksrc%3DITM%26aid%3D1110006%26algo%3DHOMESPLICE.SIM%26ao%3D1%26asc%3D237209%26meid%3D9932ecb62c01458abe47cfb11d81a068%26pid%3D101195%26rk%3D2%26rkt%3D12%26sd%3D223958238467%26itm%3D353329518781%26pmt%3D1%26noa%3D0%26pg%3D2047675%26algv%3DSimplAMLv9PairwiseWebMskuAspectsV202110NoVariantSeedWithTargetEncode&_trksid=p2047675.c101195.m1851&amdata=cksum%3A3533295187819932ecb62c01458abe47cfb11d81a068%7Cenc%3AAQAGAAACMEnhNYShfYNENg22e5Ar2gHCsggcbHQOsFH6k%252BPml9ZycFDgyi9VaDo0a9TwZaXkDGKxS%252FfzKzSZ06dQPiCAmexAf5X7rEMUn652tXtZRj8L16VFaaQxY%252BBaHybuBN8fQWV20UbYjzw3JZeO%252Bi0YUXURdKjIHMS0aRqSSX9djw%252BqGTPC179EWH4nBWSo6qg49cmvEkvtahU43pLOpmwdMkwjmxcCOVzz1OhjpE%252BxIC%252FoKelcUY0ZGZsJy1dslUr6j3ImlEhAce9dLoFFMudVfUTZX5n4xlKLlPad%252B43wl3iCjNklNRokS67M9liFxs3Y18Ai%252B9NRTQWVEJQGxLHbJVLu0d4YqqWFkKNCtMhAiInTA%252FQ0aeb17kqMnTmbR4sfN9rgXg%252BCFMBXei%252FAxMD1jNrFLyEDBbrNBiKOaGylRFVSLQAKimfea5tUDhE5ug9BG%252BPPMgByvumJN4Z%252Bqh02cutAPChKdMMKPtJjH43Hk0vXSUo5kwnK5gdWi%252BqLPw%252BNcORpleAb99m7HLgCwvEdnC0SSz2o9v5%252BgmjM0QsFQ7rsmAfp3WRTRuacOeZYqSmL9Ix9Lc%252FWH0S6VRIoL4ACeH4%252BdiaLp9CDRlQXK6ASGY0vaqfHoFgeF4cdy4SAVOfx6qfBP0NkO3McnhbLZM7xFlqcc8xAttfXcM3mWECHuvp4d2GIS9oYOqPwZd%252BsRyuw0qlQpc34640MPkFzXh0Qt1dIcBs0AGjWroMArJWOBg3X%7Campid%3APL_CLK%7Cclp%3A2047675 : 11.45€
+9. Ρυθμιστής φόρτισης: https://www.ebay.de/itm/334332178067?hash=item4dd7c02e93:g:hX4AAOSwWeRiDRzA : 5.49€
 
-8. Wi-fi module: https://grobotronics.com/esp8266-wifi-module.html : 5.80€
+10. Wi-fi module: https://grobotronics.com/esp8266-wifi-module.html : 5.80€
 
-Εκτιμώμενο κόστος: 50€
+Εκτιμώμενο κόστος: 62.20€
