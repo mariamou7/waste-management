@@ -1,4 +1,4 @@
-Τα υλικά που θα χρειαστούν είναι:
+### Τα υλικά που θα χρειαστούν είναι:
 
 1. Arduino Nano
 2. Καλώδια
@@ -14,7 +14,7 @@
 11. Wi-fi module
 
 
-Ενδεικτικοί σύνδεσμοι για υπολογισμό εκτιμώμενου κόστους:
+### Ενδεικτικοί σύνδεσμοι για υπολογισμό εκτιμώμενου κόστους:
 
 1. [Arduino Nano](https://grobotronics.com/arduino-nano-compatible-ch340-with-headers.html): 9.90€
 2. [Αρσενικά σε αρσενικά καλώδια](https://grobotronics.com/jumper-wires-15cm-male-to-male-pack-of-10.html): 1.80€
@@ -29,6 +29,6 @@
 9. [Ρυθμιστής φόρτισης](https://grobotronics.com/solar-battery-charger-regulator-10a-dual-usb.html): 13.00€
 10. [Μετατροπέας DC-DC Step-Down 1.2-37V 2.2A](https://grobotronics.com/step-down-adjustable-module-1.2-37v-2.2a-lm317t.html): 2.20€
 
-11. [Wi-fi module](https://grobotronics.com/esp8266-wifi-module.html) : 5.80€
+11. [Wi-fi module](https://grobotronics.com/esp8266-wifi-module.html): 5.80€
 
 Εκτιμώμενο κόστος: 62.20€
