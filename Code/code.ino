@@ -121,15 +121,19 @@ void loop() { //=================================================void loop======
       Serial.print(" cm \t");
       
       if ( cm_b <= 100 ) { //an kapoios plhsiasei ston kado
-        if (is_user == true) {
-          servo.write(val);
+        Serial.println("user found");
+        if (is_user == true) { //TODO: na ftiaxoume thn efarmogh
+          servo.write(val); // anoigei to kapaki
           digitalWrite(red_led, HIGH); // TODO: an kapoios plhsiasei ton kado wvris na thelei na petajei kati
+          Serial.println("opening...");
           delay(3000);
           digitalWrite(red_led, LOW);
           digitalWrite(green_led, HIGH);
-          if (cm_a <= 10) {
-            delay(3000);
-            servo.write(val - 90);
+          Serial.println("you can throw rubish.");
+          if (cm_a <= 10) { //otan petajei kapoios skoupidia mesa ston kadv
+            delay(3000); // perimene 3 s
+            Serial.println("closing...");
+            servo.write(val - 90); // kleise to kapaki
             digitalWrite(green_led, LOW); //TODO: otan kapoios thelei na petajei panv apo 2 sakoules
            
             
