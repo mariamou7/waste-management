@@ -1,36 +1,60 @@
 // Pins
+
+//sensors
 const int TRIG_PIN = 6;
 const int ECHO_PIN = 7;
 const int ECHO_PIN2 = 10;
 const int TRIG_PIN2 = 9;
 
+//leds
+const int red_led = 3;
+const int green_led = 4;
+const int yellow_led = 5;
+
+//servo
+#include <Servo.h>
+
+const int val = 90;
+
+Servo servo;
+
+
+bool is_user = true;
+
 // Anything over 400 cm (23200 us pulse) is "out of range"
 const unsigned int MAX_DIST = 23200;
 
 void setup() {
-
+  //servo
+  servo.attach(9);
+  
   // The Trigger pin will tell the sensor to range find
   pinMode(TRIG_PIN, OUTPUT);
   digitalWrite(TRIG_PIN, LOW);
   pinMode(TRIG_PIN2, OUTPUT);
   digitalWrite(TRIG_PIN2, LOW);
-
+  
   //Set Echo pin as input to measure the duration of 
   //pulses coming back from the distance sensor
   pinMode(ECHO_PIN, INPUT);
   pinMode(ECHO_PIN2, INPUT);
+
+  //led pins
+  pinMode(red_led, OUTPUT);
+  pinMode(green_led, OUTPUT);
+  pinMode(yellow_led, OUTPUT);
 
   // We'll use the serial monitor to view the sensor output
   Serial.begin(9600);
 }
 
 void loop() { //=================================================void loop=============================================
-  unsigned long t1;
-  unsigned long t2;
-  unsigned long pulse_width;
-  float cm;
-  float cm2;
-  //float inches;
+//  unsigned long t1;
+//  unsigned long t2;
+    unsigned long pulse_width_a;
+    unsigned long pulse_width_b;
+    float cm_a;
+    float cm_b;
 
   // Hold the trigger pin high for at least 10 us
   digitalWrite(TRIG_PIN, HIGH);
@@ -51,7 +75,7 @@ void loop() { //=================================================void loop======
     // Calculate distance in centimeters and inches. The constants
     // are found in the datasheet, and calculated from the assumed speed
     //of sound in air at sea level (~340 m/s).
-    int cm_a = pulse_width_a / 58.0;
+    cm_a = pulse_width_a / 58.0;
     //inches = pulse_width / 148.0;
   
     // Print out results
@@ -61,8 +85,14 @@ void loop() { //=================================================void loop======
     else {
       Serial.print(cm_a);
       Serial.print(" cm \t");
-      //Serial.print(inches);
-      //Serial.println(" in");
+//      if (cm_a <= 50) {
+//        digitalWrite(green_led, HIGH);
+//        
+//      }
+//      else {
+//        digitalWrite(green_led, LOW);
+//      }
+      
     }
   }
   
@@ -74,25 +104,47 @@ void loop() { //=================================================void loop======
     int tb1 = micros();
     while ( digitalRead(ECHO_PIN2) == 1);
     int tb2 = micros();
-    int pulse_width_b = tb2 - tb1;
+    pulse_width_b = tb2 - tb1;
   
     // Calculate distance in centimeters and inches. The constants
     // are found in the datasheet, and calculated from the assumed speed
     //of sound in air at sea level (~340 m/s).
-    int cm_b = pulse_width_b / 58.0;
+    cm_b = pulse_width_b / 58.0;
     //inches = pulse_width / 148.0;
   
     // Print out results
     if ( pulse_width_b > MAX_DIST ) {
       Serial.println("Out of range");
-    } else {
+    } 
+    else {
       Serial.print(cm_b);
       Serial.print(" cm \t");
-      //Serial.print(inches);
-      //Serial.println(" in");
+      
+      if ( cm_b <= 100 ) { //an kapoios plhsiasei ston kado
+        if (is_user == true) {
+          servo.write(val);
+          digitalWrite(red_led, HIGH); // TODO: an kapoios plhsiasei ton kado wvris na thelei na petajei kati
+          delay(3000);
+          digitalWrite(red_led, LOW);
+          digitalWrite(green_led, HIGH);
+          if (cm_a <= 10) {
+            delay(3000);
+            servo.write(val - 90);
+            digitalWrite(green_led, LOW); //TODO: otan kapoios thelei na petajei panv apo 2 sakoules
+           
+            
+          }
+        }
+      }
+//      else {
+//        servo.write(val - 90);
+//        digitalWrite(red_led, LOW);
+//      }
+      
+      
     }
   }
 
   // Wait at least 60ms before next measurement
-  delay(5000);
+  //delay(5);
 }
