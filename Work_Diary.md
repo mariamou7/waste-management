@@ -28,6 +28,10 @@
 ### Σάββατο 12 Φεβρουαρίου 2022
 Ασχοληθήκαμε με το GitHub και φτιάξαμε λογαριασμούς.
 
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/28193137/164443791-538677b6-609e-4260-b6ff-38ee59084eab.jpg" />
+</p>
+
 ### Σάββατο 19 Φεβρουαρίου 2022
 Κάναμε έναν τελευταίο έλγχο και μερικές αλλαγές στα παραδοτέα μας και είμαστε έτοιμοι για την κατάθεση του πρότζεκτ μας στον διαγωνισμό.
 
@@ -41,8 +45,17 @@
 Αφού ήρθε ο εξοπλισμός, ασχοληθήκαμε με το κομμάτι των φωτοβολταϊκών κυκλωμάτων.
 Υ.Γ. Οι κολλήσεις στα κυκλώματα έγιναν από την προπονήτριά μας, λόγω των υψηλών θερμοκρασιών που χρειάζονται για να γίνουν.
 
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/28193137/164444711-e638fb94-655b-47c1-92ea-5e7b6ff26661.jpg" />
+</p>
+
 ### Σάββατο 19 Μαρτίου 2022
 Ασχοληθήκαμε με την συνδεσμολογία των αισθητήρων.
+
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/28193137/164443383-84314360-bbe1-4fd6-a55e-d9f3beb2c6f5.jpg" />
+<img src="https://user-images.githubusercontent.com/28193137/164443393-dd155bb9-7718-4c2f-846e-06484f5b6756.jpg" />
+</p>
 
 ### Σάββατο 26 Μαρτίου 2022
 Προγραμματίσαμε το κυρίως μέρος του κώδικά μας στο Arduino.
@@ -50,11 +63,26 @@
 ### Σάββατο 2 Απριλίου 2022
 Συνεχίσαμε τον προγραμματισμό του Arduino.
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/28193137/164442888-bfe5874e-38fc-4ff8-9b64-515899f8c52d.jpg" />
+<img src="https://user-images.githubusercontent.com/28193137/164442867-9b31cbb8-1f47-4b6f-a1c8-d96a1b04bf3c.jpg" />
+<img src="https://user-images.githubusercontent.com/28193137/164442850-081220cf-72d8-41a9-900b-b4851fe03a29.jpg" />
+</p>
+                                                                                                                
 ### Σάββατο 9 Απριλίου 2022
 Σχεδιάσαμε την εφαρμογή των χρηστών, μέσω του MIT App Inventor.
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/28193137/164442403-aed972f3-2c5c-49a8-91db-925a6da1d0ba.jpg" />
+</p>
+
 ### Σάββατο 16 Απριλίου 2022
 Προγραμματίσαμε την εφαρμογή των χρηστών στο MIT App Inventor.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/28193137/164441759-becd419a-5899-4b79-a30f-67502a413774.jpg" />
+<img src="https://user-images.githubusercontent.com/28193137/164441773-bb17f73d-1989-49f0-80ae-152268479cfb.jpg" />
+</p>
 
 ### Σάββατο 30 Απριλίου 2022
 Θα συζητήσουμε τις ιδέες μας σχετικα με το βίντεο που πρέπει να φτιάξουμε για τον διαγωνισμό.
