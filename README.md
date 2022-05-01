@@ -1,6 +1,12 @@
 # waste-management
 This project is the participation of the Stamatiou Foundation - CoderDojo Rhodes, in the 4th Panhellenic Open Technologies Competition in the education of the ELLAK group, in the category of High Schools.
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/28193137/166155369-b5f00b03-67f6-472f-b2cd-b184261acdf1.png" />
+</p>
+
+Το logo αυτό δημιουργήθηκε μέσω του open source εργαλείου [Canva](https://www.canva.com/).
+
 ## Περιγραφή στα Ελληνικά
 
 ### Μελέτη υπάρχουσας κατάστασης - Ορισμός προβλήματος και ανάγκης
