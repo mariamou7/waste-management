@@ -17,10 +17,9 @@ This project is the participation of the Stamatiou Foundation - CoderDojo Rhodes
 
 Αξίζει να σημειωθεί, ότι το σύστημά μας μετράει τις σακούλες με έναν **αισθητήρα υπέρυθρων**. Πήραμε αυτή την απόφαση, επειδή οι αισθητήρες που μετράνε το βάρος είναι αρκετά δυσεύρετοι. Έτσι, αναγκαστήκαμε να σκεφτούμε out of the box. Έτσι, κάθε φορά που περνάει μια σακούλα από το πάνω μέρος του κάδου, ο μετρητής που έχουμε αυξάνεται, όπως μπορείτε να δείτε και στον αλγόριθμό μας.
 
+![20220613_173313new](https://user-images.githubusercontent.com/28193137/173515617-a2d5ec53-6117-4f72-91f5-ad8621ff0209.jpg)
+
 Το project αυτό είναι μια πρωτότυπη ιδέα, η οποία έχει ερευνηθεί, σχεδιαστεί και υλοποιηθεί από την ομάδα μας.
-
-![20220613_170324](https://user-images.githubusercontent.com/28193137/173512044-c21e8b9a-764e-41b2-b245-e91d0b61272a.jpg)
-
 
 ### Μελλοντικά σχέδια
 
@@ -44,4 +43,4 @@ This project is the participation of the Stamatiou Foundation - CoderDojo Rhodes
 - Μαρία-Αναστασία Μουστάκα
 - Αγγελική Νικολάου
 
-![image](https://user-images.githubusercontent.com/28193137/173511768-5c35d9bd-4040-40a1-86c9-d4744470425a.png)
+![image](https://user-images.githubusercontent.com/28193137/173515358-6e31f0a9-5e34-44fc-9f78-af29c9ea40db.png)
