@@ -12,3 +12,8 @@
 
 Στο αρχείο [waste-management/Code/Algorithm.md](https://github.com/mariamou7/waste-management/blob/main/Code/Algorithm.md) μπορείτε να βρείτε τον αλγόριθμο που χρησιμοποιούμε, για να καταλάβετε τη χρησιμότητα του κάθε εξαρτήματος
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/28193137/173516254-519e1c27-bb4e-416c-8b37-b6c05efa89d7.jpg" />
+<img src="https://user-images.githubusercontent.com/28193137/173516229-2a1286f3-ef2c-4840-be11-231542af1b2e.jpg" />
+</p>
+
